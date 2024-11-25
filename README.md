@@ -26,7 +26,7 @@ Features
 
 Clone the repository:
 
-git clone https://github.com/your-username/smbvulnrecon.git
+git clone https://github.com/HarshRajSinghania/smbvulnrecon.git
 cd smbvulnrecon
 
 Install required libraries:
